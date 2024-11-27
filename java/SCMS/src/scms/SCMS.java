@@ -7,7 +7,7 @@ package scms;
 /**
  *
  * @author Omar_
- * micheal
+ * mark
  */
 public class SCMS {
 
